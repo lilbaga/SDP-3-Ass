@@ -1,9 +1,9 @@
 # Assignment #3 — Bridge Design Pattern
 
-**Course:** ShP-2216 – Software Design Patterns (OP 6B06102)  
-**Institution:** Astana IT University — School of Computer Engineering  
-**Student Name:** [Ваше Имя и Фамилия]  
-**Group:** [Ваша группа, например, SE-2201]
+**Course:** Software Design Patterns   
+**Institution:** Astana IT University   
+**Student Name:** Shyndaly Bagnur  
+**Group:** SE 2502
 
 ---
 
